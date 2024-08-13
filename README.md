@@ -1,1 +1,3 @@
 # fahhima.github.io
+this project was used to learn the basics of html and css.
+following a tutorial by: ...
